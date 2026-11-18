@@ -143,3 +143,4 @@ Este é um projeto pessoal e independente. Não é afiliado nem endossado pelo C
 ## Licença
 
 O Update Watch é distribuído sob a **Licença MIT**, uma licença livre e permissiva de código aberto. Você pode usar, copiar, modificar e redistribuir o projeto conforme os termos do arquivo [LICENSE](LICENSE). A licença não oferece garantia. Nomes, serviços e conteúdos de terceiros continuam sujeitos aos respectivos termos.
+# Update-check
